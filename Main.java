@@ -49,7 +49,7 @@ public class Main
   
   private void loadConfig()
   {
-    getConfig().options().header("Time\nhour:minute\n(24h)\n\nTypes:\nstop -> Stop the server\nreload -> reload the server");
+    getConfig().options().header("Plugin by MCDevExpertDE and CryCore\nTime\nhour:minute\n(24h)\n\nTypes:\nstop -> Stop the server\nreload -> reload the server\n ");
     check("time", "19:30");
     check("type", "stop");
   }
