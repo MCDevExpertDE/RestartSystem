@@ -1,0 +1,9 @@
+TODO list for RestartSystem
+
+Version 1.1
+ - Custom Message
+ - MySQL Database Support
+ - Features
+ - Support Java 1.8
+ - InGame Commands
+ - Permissions
