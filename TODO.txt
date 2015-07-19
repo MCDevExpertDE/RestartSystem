@@ -1,5 +1,6 @@
 TODO list for RestartSystem
 
+    STATUS 80% Version 1.1
 Version 1.1
  - Custom Message
  - MySQL Database Support
